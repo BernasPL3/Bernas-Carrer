@@ -1,0 +1,15 @@
+native/build-*/
+native/*.o
+native/*.d
+native/*.elf
+native/*.map
+native/*.dol
+dist/
+__pycache__/
+*.pyc
+*.bcareer
+*.sav
+*.sav.tmp
+*.sav.bak
+.DS_Store
+Thumbs.db

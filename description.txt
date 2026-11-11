@@ -1,0 +1,1 @@
+A football player career simulator for the web, Wii and GameCube. Native C++ builds use devkitPPC and libogc.

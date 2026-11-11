@@ -1,0 +1,2 @@
+069dff2260e63a2ed1cc255e0ad5aa7904ead8ddd9fa4f4f2d95791a1bed5de5  releases/wii/apps/bernas-career/boot.dol
+03247aca9f91e7067df7b712ab1f6fed61e6e90684e23cb90253dabe7900fb23  releases/gamecube/bernas-career.dol
